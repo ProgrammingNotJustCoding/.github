@@ -1,5 +1,5 @@
 <h1 align="center"> Programming Not Coding </h1>
-<h4 align="center"> This is organisation is made by me for educational purposes and other personal projects :D</h4>
+<h4 align="center"> This is organisation is made by HarshPatel5940 for educational purposes and other personal projects :D</h4>
 
 ## Hello there! I am Harsh Patel ✌️
   - **Discord Bot Developer**
