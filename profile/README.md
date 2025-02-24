@@ -1,4 +1,4 @@
-<h1 align="center"> Programming Not Coding </h1>
+<h1 align="center"> Programming Not Just Coding </h1>
 <h5 align="center"> Reminding People To Program Not Just Code — A community promoting creativity and innovation.</h5>
 
 <br/>
